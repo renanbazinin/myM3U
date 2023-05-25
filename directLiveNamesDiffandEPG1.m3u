@@ -44,3 +44,10 @@ https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="WE2" tvg-logo="https://www.br.de/mediathek/static/Brand_ogp.png" group-title="WeatherSki",Weather EU 2
 https://brevent.akamaized.net/hls/live/2028222-b/event_05/master_1280p_3328.m3u8
 
+
+#EXTINF:-1 tvg-id="RickAndMorty" tvg-logo="https://media.cdn.adultswim.com/uploads/20220904/2294143541-RAMMobileHero.png" group-title="TvShowMarathons",Rick and morty (720) HD
+https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_7.m3u8
+
+
+#EXTINF:-1 tvg-id="RickAndMorty" tvg-logo="https://static.thcdn.com/design-assets/images/licensed-images/rickandmorty.png" group-title="TvShowMarathons",Rick and morty (360) SD
+https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_3.m3u8
