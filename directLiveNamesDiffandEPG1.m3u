@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:-1 tvg-id="Kan 11 IL" tvg-name="Kan 11 IL" tvg-logo="https://diversityisrael.org.il/wp-content/uploads/kan-200x145.png" group-title="Israel",kan11
+#EXTINF:-1 tvg-id="KAN 11 IL" tvg-name="KAN 11 IL" tvg-logo="https://diversityisrael.org.il/wp-content/uploads/kan-200x145.png" group-title="Israel",kan11
 https://kan11.media.kan.org.il/hls/live/2024514/2024514/source1_4k/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Keshet 12 IL" tvg-name="Keshet 12 IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Keshet12_2018.svg/1200px-Keshet12_2018.svg.png" group-title="Israel",keshet12
