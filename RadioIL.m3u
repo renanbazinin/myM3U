@@ -1,0 +1,33 @@
+#EXTM3U	
+
+
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s47350/images/logod.jpg" group-title="RadioIL" ,Kan88
+https://kanliveicy.media.kan.org.il/icy/749623_mp3
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRT_p7NVO61t-w4A4bVLMpYQRtUfU46skGRcvG4=s900-c-k-c0x00ffffff-no-rj" group-title="RadioIL",GLZ
+https://glzwizzlv.bynetcdn.com/glz_mp3
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://glz.co.il/media/21295/glgzicon.png" group-title="RadioIL",GLGLTZ
+http://glzwizzlv.bynetcdn.com/glglz_mp3
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://kanstatic.azureedge.net/download/pictures/Station_Share_Image3_img__2.jpg" group-title="RadioIL",Reshet Bet
+https://kanliveicy.media.kan.org.il/icy/kanbet_mp3
+
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/7/72/103FM.svg/1200px-103FM.svg.png" group-title="RadioIL",103FM
+https://cdn.cybercdn.live/103FM/Live/icecast.audio?listening-from-radio-garden=1652550333
+
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://pea.fm/uploads/posts/2020-10/1601651149_israeli.png" group-title="RadioIL",100FM(Israeli)
+ https://gb25.streamgates.net/radios-audio/100Israeli/icecast.audio
+
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dbs.radioline.fr/pictures/radio_ecd704727a6f347c9ab3c1250c996e31/logo200.jpg" group-title="RadioIL",100FM(Movie's songs)
+https://gb25.streamgates.net/radios-audio/100Movies/icecast.audio?listening-from-radio-garden=1653129839
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://digital.100fm.co.il/100fm.jpg" group-title="RadioIL",100FM(Main)
+https://cdn.cybercdn.live/Radios_100FM/Audio/icecast.audio?listening-from-radio-garden=1653129957
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://c8.alamy.com/comp/M92Y7J/nostalgia-music-logo-or-symbol-gramophone-phonograph-icon-vector-illustration-M92Y7J.jpg" group-title="RadioIL",100FM(Nostalgia)
+https://gb25.streamgates.net/radios-audio/100Nostalgia/icecast.audio?listening-from-radio-garden=1653130533

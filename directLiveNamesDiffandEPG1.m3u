@@ -6,7 +6,7 @@
 https://kan11.media.kan.org.il/hls/live/2024514/2024514/source1_4k/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Keshet 12 IL" tvg-name="Keshet 12 IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Keshet12_2018.svg/1200px-Keshet12_2018.svg.png" group-title="Israel",keshet12
-https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/3/hdntl=exp=1685107028~acl=%2f*~data=hdntl~hmac=6d5156b73bc439ac3a70bd466b5604c01988ff453baf90dcab6499a95b3799b0/profileManifest.m3u8?_uid=3c872afb-b772-43c4-9b0f-44b0c705234f&rK=a4&_did=75808fc2-c1b8-4e63-80c2-dbd865af7dba
+https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=100-2700&_uid=75808fc2-c1b8-4e63-80c2-dbd865af7dba&playerSessionid=af2582f6-d14f-4de2-ac13-80c8d0f70e5f&hdnea=st%3D1685032805%7Eexp%3D1685033705%7Eacl%3D%2F*%7Ehmac%3Da2916c3fb173af805e88f6375a58e108b6c22cda006b4515f2afd2695ae99e97
 
 
 #EXTINF:-1 tvg-id="Reshet 13 IL" tvg-name="Reshet 13 IL" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/1/17/Reshet13Logo2022.svg/640px-Reshet13Logo2022.svg.png" group-title="Israel", reshet13
