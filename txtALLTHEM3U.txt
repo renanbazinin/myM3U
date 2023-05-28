@@ -7,3 +7,6 @@ https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/2/hd
 
 28\05\2023 9:05
 https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/2/hdntl=exp=1685340135~acl=%2f*~data=hdntl~hmac=5bd0989d1a2bf06f331481803de8602fed5fbe9d35c9017f529a36a388c2ca54/profileManifest.m3u8?_uid=21c77b11-a20c-4445-91ca-dfce62ccefb2&rK=a1&_did=b74f5cde-92ab-4848-bd41-a2210ad4c5ec
+
+28\05\2023 13:19
+https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/3/hdntl=exp=1685355515~acl=%2f*~data=hdntl~hmac=870b754d63b0984f17695360afe18ecf12efab5745107e888b6d0bcefaeea856/profileManifest.m3u8?_uid=27cc4789-b933-4449-9cc2-6398d6eee72e&rK=a1&_did=W3107651e9f8a91139d37ce7e8892ceb10ab
