@@ -2,20 +2,20 @@
 
 
 
-#EXTINF:-1 tvg-id="Channel 12 Kan" tvg-name="Channel 11 Kan" tvg-logo="https://diversityisrael.org.il/wp-content/uploads/kan-200x145.png" group-title="Israel",kan11
+#EXTINF:-1  tvg-id="11-kanal-il" tvg-logo="https://diversityisrael.org.il/wp-content/uploads/kan-200x145.png" group-title="Israel",kan11
 https://kan11.media.kan.org.il/hls/live/2024514/2024514/source1_4k/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Channel 12 Keset" tvg-name="Channel 12 Keset" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Keshet12_2018.svg/1200px-Keshet12_2018.svg.png" group-title="Israel",keshet12
+#EXTINF:-1  tvg-id="12-kanal-il" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Keshet12_2018.svg/1200px-Keshet12_2018.svg.png" group-title="Israel",keshet12
 https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/3/hdntl=exp=1685355515~acl=%2f*~data=hdntl~hmac=870b754d63b0984f17695360afe18ecf12efab5745107e888b6d0bcefaeea856/profileManifest.m3u8?_uid=27cc4789-b933-4449-9cc2-6398d6eee72e&rK=a1&_did=W3107651e9f8a91139d37ce7e8892ceb10ab
 
-#EXTINF:-1 tvg-id="Channel 13 Reshet" tvg-name="Channel 13 Reshet" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/1/17/Reshet13Logo2022.svg/640px-Reshet13Logo2022.svg.png" group-title="Israel", reshet13
+#EXTINF:-1 tvg-id="13-kanal-il" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/1/17/Reshet13Logo2022.svg/640px-Reshet13Logo2022.svg.png" group-title="Israel", reshet13
 https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
 
 #EXTINF:-1 tvg-id="walla" tvg-name="walla" tvg-logo="https://cdn2.downdetector.com/static/uploads/logo/walla.png" group-title="Israel",walla
 https://amg01742-walla-wallanews-ono-2eohr.amagi.tv/playlist1080p.m3u8
 
 
-#EXTINF:-1 tvg-id="Channel 14 IL" tvg-name="Channel 14 IL" tvg-logo="https://www.now14.co.il/wp-content/uploads/2022/06/%D7%9C%D7%95%D7%92%D7%95-%D7%A9%D7%A7%D7%95%D7%A3-02-e1659629999469.png" group-title="Israel",now14
+#EXTINF:-1 tvg-id="14-kanal-il"  tvg-name="Channel 14 IL" tvg-logo="https://www.now14.co.il/wp-content/uploads/2022/06/%D7%9C%D7%95%D7%92%D7%95-%D7%A9%D7%A7%D7%95%D7%A3-02-e1659629999469.png" group-title="Israel",now14
 https://ch14-channel14.akamaized.net/hls/live/2097589/CH14_CHANNEL14/master.m3u8
 
 #EXTINF:-1 tvg-id="knesset" tvg-name="knesset" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/4/43/Knessetch10.svg/1200px-Knessetch10.svg.png" group-title="Israel",knesset
