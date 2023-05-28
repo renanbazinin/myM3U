@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-id="KAN 11 IL" tvg-name="KAN 11 IL" tvg-logo="https://diversityisrael.org.il/wp-content/uploads/kan-200x145.png" group-title="Israel",kan11
 https://kan11.media.kan.org.il/hls/live/2024514/2024514/source1_4k/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="channel12.il" tvg-name="Keshet 12 IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Keshet12_2018.svg/1200px-Keshet12_2018.svg.png" group-title="Israel",keshet12
+#EXTINF:-1 tvg-id="channel12.il" tvg-name="channel12.il" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Keshet12_2018.svg/1200px-Keshet12_2018.svg.png" group-title="Israel",keshet12
 https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/3/hdntl=exp=1685355515~acl=%2f*~data=hdntl~hmac=870b754d63b0984f17695360afe18ecf12efab5745107e888b6d0bcefaeea856/profileManifest.m3u8?_uid=27cc4789-b933-4449-9cc2-6398d6eee72e&rK=a1&_did=W3107651e9f8a91139d37ce7e8892ceb10ab
 
 #EXTINF:-1 tvg-id="Reshet 13 IL" tvg-name="Reshet 13 IL" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/1/17/Reshet13Logo2022.svg/640px-Reshet13Logo2022.svg.png" group-title="Israel", reshet13
