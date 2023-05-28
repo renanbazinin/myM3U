@@ -8,7 +8,7 @@ https://kan11.media.kan.org.il/hls/live/2024514/2024514/source1_4k/chunklist.m3u
 #EXTINF:-1 tvg-id="Channel 12 Keset" tvg-name="Channel 12 Keset" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Keshet12_2018.svg/1200px-Keshet12_2018.svg.png" group-title="Israel",keshet12
 https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/3/hdntl=exp=1685355515~acl=%2f*~data=hdntl~hmac=870b754d63b0984f17695360afe18ecf12efab5745107e888b6d0bcefaeea856/profileManifest.m3u8?_uid=27cc4789-b933-4449-9cc2-6398d6eee72e&rK=a1&_did=W3107651e9f8a91139d37ce7e8892ceb10ab
 
-#EXTINF:-1 tvg-id="Reshet 13 IL" tvg-name="Reshet 13 IL" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/1/17/Reshet13Logo2022.svg/640px-Reshet13Logo2022.svg.png" group-title="Israel", reshet13
+#EXTINF:-1 tvg-id="Channel 12 Reshet" tvg-name="Channel 13 Reshet" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/1/17/Reshet13Logo2022.svg/640px-Reshet13Logo2022.svg.png" group-title="Israel", reshet13
 https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
 
 #EXTINF:-1 tvg-id="walla" tvg-name="walla" tvg-logo="https://cdn2.downdetector.com/static/uploads/logo/walla.png" group-title="Israel",walla
