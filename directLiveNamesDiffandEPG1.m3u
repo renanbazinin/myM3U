@@ -3,7 +3,7 @@
 https://kan11.media.kan.org.il/hls/live/2024514/2024514/source1_4k/chunklist.m3u8
 
 #EXTINF:-1  tvg-id="12-kanal-il" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Keshet12_2018.svg/1200px-Keshet12_2018.svg.png" group-title="Israel",keshet 12
-https://rotterxmltodata.onrender.com/m3u
+https://ideorpo.alwaysdata.net/kmb.php?m3u8
 
 #EXTINF:-1 tvg-id="13-kanal-il" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/1/17/Reshet13Logo2022.svg/640px-Reshet13Logo2022.svg.png" group-title="Israel", reshet 13
 https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
