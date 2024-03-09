@@ -31,3 +31,7 @@ https://cdn.cybercdn.live/Radios_100FM/Audio/icecast.audio?listening-from-radio-
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://c8.alamy.com/comp/M92Y7J/nostalgia-music-logo-or-symbol-gramophone-phonograph-icon-vector-illustration-M92Y7J.jpg" group-title="RadioIL",100FM(Nostalgia)
 https://gb25.streamgates.net/radios-audio/100Nostalgia/icecast.audio?listening-from-radio-garden=1653130533
+
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.rlive.co.il/storage/uploads/stations/Q4IUO2dHHBgUhGxvj5jvCiOGOPedRATh0yvbuzeU.png" group-title="RadioIL",Reshet G (kan g)
+https://kangimmel.media.kan.org.il/hls/live/2024813/2024813/kangimmel_mp3/chunklist.m3u8
