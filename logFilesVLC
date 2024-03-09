@@ -19645,3 +19645,381 @@ direct3d11 error: SetThumbNailClip failed: 0x800706f4
 avcodec: Using D3D11VA (NVIDIA GeForce RTX 3060 Ti, vendor 10de(NVIDIA), device 2489, revision a1) for hardware decoding
 direct3d11 error: SetThumbNailClip failed: 0x800706f4
 -- logger module stopped --
+﻿-- logger module started --
+main: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+main: Status file authenticated
+adaptive: Changing stream format Unknown -> TS
+mpeg4audio: AAC channels: 2 samplerate: 44100
+avcodec: Using D3D11VA (NVIDIA GeForce RTX 3060 Ti, vendor 10de(NVIDIA), device 2489, revision a1) for hardware decoding
+adaptive: Ending demuxer stream. [needrestart]
+http error: local stream 1 error: Cancellation (0x8)
+adaptive: Changing stream format Unknown -> TS
+mpeg4audio: AAC channels: 2 samplerate: 48000
+avcodec: Using D3D11VA (NVIDIA GeForce RTX 3060 Ti, vendor 10de(NVIDIA), device 2489, revision a1) for hardware decoding
+adaptive: Ending demuxer stream. [needrestart]
+mpeg4audio: AAC channels: 2 samplerate: 48000
+direct3d11 error: SetThumbNailClip failed: 0x800706f4
+avcodec: Using D3D11VA (NVIDIA GeForce RTX 3060 Ti, vendor 10de(NVIDIA), device 2489, revision a1) for hardware decoding
+adaptive: Changing stream format Unknown -> TS
+http error: local stream 3 error: Cancellation (0x8)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+adaptive: Changing stream format Unknown -> TS
+http error: local stream 3 error: Cancellation (0x8)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 1 error: Stream closed (0x5)
+http error: local stream 1 error: Cancellation (0x8)
+adaptive: Changing stream format Unknown -> WebVTT
+http error: local stream 3 error: Cancellation (0x8)
+http error: local stream 5 error: Cancellation (0x8)
+adaptive: Changing stream format Unknown -> TS
+adaptive: Ending demuxer stream. [needrestart]
+http error: local stream 7 error: Cancellation (0x8)
+mpeg4audio: AAC channels: 2 samplerate: 48000
+http error: local stream 9 error: Cancellation (0x8)
+direct3d11 error: SetThumbNailClip failed: 0x800706f4
+adaptive: Ending demuxer stream. [needrestart]
+avcodec: Using D3D11VA (NVIDIA GeForce RTX 3060 Ti, vendor 10de(NVIDIA), device 2489, revision a1) for hardware decoding
+http error: local stream 11 error: Cancellation (0x8)
+mpeg4audio: AAC channels: 2 samplerate: 48000
+direct3d11 error: SetThumbNailClip failed: 0x800706f4
+avcodec: Using D3D11VA (NVIDIA GeForce RTX 3060 Ti, vendor 10de(NVIDIA), device 2489, revision a1) for hardware decoding
+http error: local stream 1 error: Stream closed (0x5)
+http error: local stream 1 error: Cancellation (0x8)
+http error: local stream 13 error: Cancellation (0x8)
+http error: local stream 15 error: Cancellation (0x8)
+http error: local stream 3 error: Cancellation (0x8)
+http error: local stream 17 error: Cancellation (0x8)
+http error: local stream 5 error: Cancellation (0x8)
+http error: local stream 19 error: Cancellation (0x8)
+http error: local stream 7 error: Cancellation (0x8)
+http error: local stream 21 error: Cancellation (0x8)
+http error: local stream 9 error: Cancellation (0x8)
+http error: local stream 23 error: Cancellation (0x8)
+http error: local stream 11 error: Cancellation (0x8)
+http error: local stream 25 error: Cancellation (0x8)
+http error: local stream 27 error: Cancellation (0x8)
+http error: local stream 13 error: Cancellation (0x8)
+http error: local stream 29 error: Cancellation (0x8)
+http error: local stream 15 error: Cancellation (0x8)
+http error: local stream 31 error: Cancellation (0x8)
+http error: local stream 17 error: Stream closed (0x5)
+http error: local stream 17 error: Cancellation (0x8)
+http error: local stream 1 error: Cancellation (0x8)
+http error: local stream 33 error: Cancellation (0x8)
+http error: local stream 1 error: Cancellation (0x8)
+adaptive: Changing stream format Unknown -> TS
+mpeg4audio: AAC channels: 2 samplerate: 48000
+direct3d11 error: SetThumbNailClip failed: 0x800706f4
+avcodec: Using D3D11VA (NVIDIA GeForce RTX 3060 Ti, vendor 10de(NVIDIA), device 2489, revision a1) for hardware decoding
+adaptive: Ending demuxer stream. [needrestart]
+mpeg4audio: AAC channels: 2 samplerate: 48000
+direct3d11 error: SetThumbNailClip failed: 0x800706f4
+avcodec: Using D3D11VA (NVIDIA GeForce RTX 3060 Ti, vendor 10de(NVIDIA), device 2489, revision a1) for hardware decoding
+http error: peer stream 1 error: Cancellation (0x8)
+http error: local stream 247 error: Cancellation (0x8)
+http error: local stream 247 error: Stream closed (0x5)
+http error: local stream 247 error: Stream closed (0x5)
+http error: local stream 247 error: Stream closed (0x5)
+http error: local stream 247 error: Stream closed (0x5)
+adaptive: Changing stream format Unknown -> TS
+mpeg4audio: AAC channels: 2 samplerate: 44100
+direct3d11 error: SetThumbNailClip failed: 0x800706f4
+avcodec: Using D3D11VA (NVIDIA GeForce RTX 3060 Ti, vendor 10de(NVIDIA), device 2489, revision a1) for hardware decoding
+adaptive: Ending demuxer stream. [needrestart]
+adaptive: Changing stream format Unknown -> TS
+http error: local stream 3 error: Cancellation (0x8)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+http error: local stream 3 error: Stream closed (0x5)
+adaptive: Changing stream format Unknown -> TS
+http error: local stream 3 error: Cancellation (0x8)
+adaptive: Ending demuxer stream. [needrestart]
+mpeg4audio: AAC channels: 2 samplerate: 48000
+direct3d11 error: SetThumbNailClip failed: 0x800706f4
+avcodec: Using D3D11VA (NVIDIA GeForce RTX 3060 Ti, vendor 10de(NVIDIA), device 2489, revision a1) for hardware decoding
+mpeg4audio: AAC channels: 2 samplerate: 48000
+direct3d11 error: SetThumbNailClip failed: 0x800706f4
+avcodec: Using D3D11VA (NVIDIA GeForce RTX 3060 Ti, vendor 10de(NVIDIA), device 2489, revision a1) for hardware decoding
+http error: local stream 11 error: Cancellation (0x8)
+http error: local stream 13 error: Cancellation (0x8)
+http error: local stream 15 error: Cancellation (0x8)
+http error: local stream 17 error: Cancellation (0x8)
+http error: local stream 19 error: Cancellation (0x8)
+http error: local stream 21 error: Cancellation (0x8)
+http error: local stream 23 error: Cancellation (0x8)
+http error: local stream 25 error: Cancellation (0x8)
+http error: local stream 27 error: Cancellation (0x8)
+http error: local stream 29 error: Cancellation (0x8)
+http error: local stream 31 error: Cancellation (0x8)
+http error: local stream 33 error: Cancellation (0x8)
+http error: local stream 35 error: Cancellation (0x8)
+http error: local stream 37 error: Cancellation (0x8)
+http error: local stream 39 error: Cancellation (0x8)
+http error: local stream 41 error: Cancellation (0x8)
+http error: local stream 43 error: Cancellation (0x8)
+http error: local stream 1 error: Cancellation (0x8)
+adaptive: Changing stream format Unknown -> TS
+mpeg4audio: AAC channels: 2 samplerate: 48000
+direct3d11 error: SetThumbNailClip failed: 0x800706f4
+avcodec: Using D3D11VA (NVIDIA GeForce RTX 3060 Ti, vendor 10de(NVIDIA), device 2489, revision a1) for hardware decoding
+adaptive: Ending demuxer stream. [needrestart]
+mpeg4audio: AAC channels: 2 samplerate: 48000
+direct3d11 error: SetThumbNailClip failed: 0x800706f4
+avcodec: Using D3D11VA (NVIDIA GeForce RTX 3060 Ti, vendor 10de(NVIDIA), device 2489, revision a1) for hardware decoding
+adaptive: Changing stream format Unknown -> TS
+http error: local stream 3 error: Cancellation (0x8)
+mpeg4audio: AAC channels: 2 samplerate: 48000
+adaptive: Ending demuxer stream. [needrestart]
+direct3d11 error: SetThumbNailClip failed: 0x800706f4
+avcodec: Using D3D11VA (NVIDIA GeForce RTX 3060 Ti, vendor 10de(NVIDIA), device 2489, revision a1) for hardware decoding
+mpeg4audio: AAC channels: 2 samplerate: 48000
+direct3d11 error: SetThumbNailClip failed: 0x800706f4
+main error: Failed to set fullscreen
+avcodec: Using D3D11VA (NVIDIA GeForce RTX 3060 Ti, vendor 10de(NVIDIA), device 2489, revision a1) for hardware decoding
+http error: local stream 13 error: Cancellation (0x8)
+http error: local stream 27 error: Cancellation (0x8)
+http error: local stream 39 error: Cancellation (0x8)
+http error: local stream 41 error: Cancellation (0x8)
+http error: peer error: No error (0x0)
+gnutls error: The TLS connection was non-properly terminated.
+http error: peer stream 1 error: Cancellation (0x8)
+gnutls error: The specified session has been invalidated for some reason.
+http error: local stream 111 error: Cancellation (0x8)
+http error: local stream 125 error: Cancellation (0x8)
+gnutls error: The specified session has been invalidated for some reason.
+http error: local stream 1 error: Cancellation (0x8)
+adaptive: Changing stream format Unknown -> TS
+mpeg4audio: AAC channels: 2 samplerate: 48000
+direct3d11 error: SetThumbNailClip failed: 0x800706f4
+avcodec: Using D3D11VA (NVIDIA GeForce RTX 3060 Ti, vendor 10de(NVIDIA), device 2489, revision a1) for hardware decoding
+adaptive: Ending demuxer stream. [needrestart]
+mpeg4audio: AAC channels: 2 samplerate: 48000
+direct3d11 error: SetThumbNailClip failed: 0x800706f4
+main error: Failed to set fullscreen
+avcodec: Using D3D11VA (NVIDIA GeForce RTX 3060 Ti, vendor 10de(NVIDIA), device 2489, revision a1) for hardware decoding
+http error: peer stream 1 error: Cancellation (0x8)
+adaptive: Changing stream format Unknown -> TS
+mpeg4audio: AAC channels: 2 samplerate: 44100
+direct3d11 error: SetThumbNailClip failed: 0x800706f4
+avcodec: Using D3D11VA (NVIDIA GeForce RTX 3060 Ti, vendor 10de(NVIDIA), device 2489, revision a1) for hardware decoding
+adaptive: Ending demuxer stream. [needrestart]
+mpeg4audio: AAC channels: 2 samplerate: 48000
+direct3d11 error: SetThumbNailClip failed: 0x800706f4
+avcodec: Using D3D11VA (NVIDIA GeForce RTX 3060 Ti, vendor 10de(NVIDIA), device 2489, revision a1) for hardware decoding
+direct3d11 error: SetThumbNailClip failed: 0x800706f4
+-- logger module stopped --
