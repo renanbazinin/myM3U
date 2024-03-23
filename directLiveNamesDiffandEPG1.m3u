@@ -14,6 +14,9 @@ https://hub7.g-mana.live/media/91517161-44ab-4e46-af70-e9fe26117d2e/profile/2/pr
 #EXTINF:-1 tvg-id="knesset" tvg-name="knesset" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/4/43/Knessetch10.svg/1200px-Knessetch10.svg.png" group-title="Israel",knesset
 https://contactgbs.mmdlive.lldns.net/contactgbs/a40693c59c714fecbcba2cee6e5ab957/chunklist_b1128000.m3u8
 
+#EXTINF:-1 tvg-id="RelevantTV.il" tvg-logo="https://i.imgur.com/jCZ5gFO.png" group-title="Israel",Relevant TV (1080p)
+https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/06e44cd7f7e0445fbd669f279c997fd4/index.mpd
+
 #EXTINF:-1 tvg-id="BloombergTV.us" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="USA",Bloomberg TV
 https://bloomberg-bloomberg-1-be.samsung.wurl.tv/playlist.m3u8
 
@@ -44,3 +47,5 @@ https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_7.m3u8
 
 #EXTINF:-1 tvg-id="RickAndMorty" tvg-logo="https://static.thcdn.com/design-assets/images/licensed-images/rickandmorty.png" group-title="TvShowMarathons",Rick and morty (360) SD
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_3.m3u8
+
+
