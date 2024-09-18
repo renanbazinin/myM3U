@@ -1,0 +1,191 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="*** WEBCAMS **********" group-title="WEBCAMS" tvg-logo="https://i.imgur.com/1Woc7R3.png",*** WEBCAMS **********
+https://outbound-production.explore.org/stream-production-110/.m3u8
+#EXTINF:-1 tvg-name="Africam 1" tvg-id="" tvg-logo="https://i.imgur.com/NzGbcPd.jpg" group-title="WEBCAMS",Africam 1
+https://outbound-production.explore.org/stream-production-110/.m3u8
+#EXTINF:-1 tvg-name="Africam 2" tvg-id="" tvg-logo="https://i.imgur.com/NzGbcPd.jpg" group-title="WEBCAMS",Africam 2
+https://outbound-production.explore.org/stream-production-276/.m3u8
+#EXTINF:-1 tvg-name="Africam 3" tvg-id="" tvg-logo="https://i.imgur.com/NzGbcPd.jpg" group-title="WEBCAMS",Africam 3
+https://outbound-production.explore.org/stream-production-317/.m3u8
+#EXTINF:-1 tvg-name="Africam 4" tvg-id="" tvg-logo="https://i.imgur.com/NzGbcPd.jpg" group-title="WEBCAMS",Africam 4
+https://outbound-production.explore.org/stream-production-49/.m3u8
+#EXTINF:-1 tvg-name="Amsterdam (NL) YT" tvg-id="" tvg-logo="https://i.imgur.com/0Mksg4A.png" group-title="WEBCAMS",Amsterdam (NL) YT
+plugin://plugin.video.youtube/play/?video_id=86sjgqrpFqs
+#EXTINF:-1 tvg-name="Argentina (AR)" tvg-id="" tvg-logo="https://i.imgur.com/x9W7AoU.png" group-title="WEBCAMS",Argentina (AR)
+http://200.50.248.57:8080/Camara1/index.m3u8
+#EXTINF:-1 tvg-name="Austria (AT)" tvg-id="" tvg-logo="https://i.imgur.com/RqwwAU5.png" group-title="WEBCAMS",Austria (AT)
+https://cdn.livespotting.com/vpu/y6tzfe2i/j76qemhq.m3u8
+#EXTINF:-1 tvg-name="Schmitten - Zell am See (AT)" tvg-id="" tvg-logo="https://i.imgur.com/lc6LbiO.png" group-title="WEBCAMS",Schmitten - Zell am See (AT)
+http://s1.live-panorama.com/keblivestreaming/streams/schmittenTVLow.sdp.stream.m3u8
+#EXTINF:-1 tvg-name="Charlottetown (CA)" tvg-id="" tvg-logo="https://i.imgur.com/sREHnLa.png" group-title="WEBCAMS",Charlottetown (CA)
+http://media.gpei.ca/islandcam/guild.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Switzerland (CH)" tvg-id="" tvg-logo="https://i.imgur.com/eqVr8td.jpg" group-title="WEBCAMS",Switzerland (CH)
+https://cdn.livespotting.com/vpu/jsxhx3vx/9chmjag2.m3u8
+#EXTINF:-1 tvg-name="Czech Heaven (CZ)" tvg-id="" tvg-logo="https://i.imgur.com/KzMHtFA.jpg" group-title="WEBCAMS",Czech Heaven (CZ)
+https://www.czechheaven.cz/webcam/playlist/webcam_czechheaven_p1.m3u8
+#EXTINF:-1 tvg-name="Valasske Mezirici (CZ)" tvg-id="" tvg-logo="https://i.imgur.com/pdaXCVX.png" group-title="WEBCAMS",Valasske Mezirici (CZ)
+http://212.111.1.7:1937/vlmcam01/vlmcam01.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Binz (DE)" tvg-id="" tvg-logo="https://i.imgur.com/3Nax7SD.png" group-title="WEBCAMS",Binz (DE)
+http://cam01.binz-kabel.de/cam1/960.m3u8
+#EXTINF:-1 tvg-name="Cuxhafen Hotel Kamp (DE) YT" tvg-id="" tvg-logo="https://i.imgur.com/z01cM2Z.png" group-title="WEBCAMS",Cuxhafen Hotel Kamp (DE) YT
+plugin://plugin.video.youtube/play/?video_id=SZp1Q6LX7Wk
+#EXTINF:-1 tvg-name="Düsseldorf (DE)" tvg-id="" tvg-logo="https://i.imgur.com/57uHsWL.jpg" group-title="WEBCAMS",Düsseldorf (DE)
+http://5c77a8c984f82.streamlock.net:1935/live/mp4:ddorfcam-mp/playlist.m3u8
+#EXTINF:-1 tvg-name="Düsseldorf Flughafen 1 (DE)" tvg-id="" tvg-logo="https://i.imgur.com/fnX995J.jpg" group-title="WEBCAMS",Düsseldorf Flughafen 1 (DE)
+https://stream-5gw.1000eyes.de/cupertino/dusfcae.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Düsseldorf Flughafen 2 (DE)" tvg-id="" tvg-logo="https://i.imgur.com/fnX995J.jpg" group-title="WEBCAMS",Düsseldorf Flughafen 2 (DE)
+https://stream-5gw.1000eyes.de/cupertino/dus5abb.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Düsseldorf Flughafen 3 (DE)" tvg-id="" tvg-logo="https://i.imgur.com/fnX995J.jpg" group-title="WEBCAMS",Düsseldorf Flughafen 3 (DE)
+https://stream-5gw.1000eyes.de/cupertino/dus1ba9.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Hamburg (DE)" tvg-id="" tvg-logo="https://i.imgur.com/4L0wEdI.png" group-title="WEBCAMS",Hamburg (DE)
+https://ch-fra-n10.livespotting.com/vpu/8p96b3b9/l2mucuq9_720.m3u8
+#EXTINF:-1 tvg-name="Juist (DE)" tvg-id="" tvg-logo="https://i.imgur.com/ILeO18w.png" group-title="WEBCAMS",Juist (DE)
+https://cdn.livespotting.com/vpu/z5my1uz7/kpl2gjeg.m3u8
+#EXTINF:-1 tvg-name="Kieler Hafen (DE) YT" tvg-id="" tvg-logo="https://i.imgur.com/RJ4TDrI.png" group-title="WEBCAMS",Kieler Hafen (DE) YT
+plugin://plugin.video.youtube/play/?video_id=FrkqJo0s1oA
+#EXTINF:-1 tvg-name="Nord-Ostsee-Kanal Schleuse Brunsbüttel (DE) YT" tvg-id="" tvg-logo="https://i.imgur.com/LSwzZpg.png" group-title="WEBCAMS",Nord-Ostsee-Kanal Schleuse Brunsbüttel (DE) YT
+plugin://plugin.video.youtube/play/?video_id=ydgDnq32rYM
+#EXTINF:-1 tvg-name="Warnemünde Yachthafen  (DE)" tvg-id="" tvg-logo="https://i.imgur.com/EDbV6jx.jpg" group-title="WEBCAMS",Warnemünde Yachthafen (DE)
+https://cdn.livespotting.com/vpu/oq57fxnt/mciwlhsf_hub.m3u8
+#EXTINF:-1 tvg-name="White Stork (DE) YT" tvg-id="" tvg-logo="https://i.imgur.com/HgMvW01.png" group-title="WEBCAMS",White Stork (DE) YT
+plugin://plugin.video.youtube/play/?video_id=K7rjApxYPtQ
+#EXTINF:-1 tvg-name="Vejers Strand 1 (DK) YT" tvg-id="" tvg-logo="https://i.imgur.com/VrfX5g8.png" group-title="WEBCAMS",Vejers Strand 1 (DK) YT
+plugin://plugin.video.youtube/play/?video_id=TX-9_Lw1Rgg
+#EXTINF:-1 tvg-name="Vejers Strand 2 (DK) YT" tvg-id="" tvg-logo="https://i.imgur.com/VrfX5g8.png" group-title="WEBCAMS",Vejers Strand 2 (DK) YT
+plugin://plugin.video.youtube/play/?video_id=XebEn432UUU
+#EXTINF:-1 tvg-name="Eteläranta Pori (FI) YT" tvg-id="" tvg-logo="https://i.imgur.com/GJZv3qd.jpg" group-title="WEBCAMS",Eteläranta Pori (FI) YT
+plugin://plugin.video.youtube/play/?video_id=e0tSa2z92mM
+#EXTINF:-1 tvg-name="Helsinki (FI) YT" tvg-id="" tvg-logo="https://i.imgur.com/G35YVYs.png" group-title="WEBCAMS",Helsinki (FI) YT
+plugin://plugin.video.youtube/play/?video_id=LMZQ7eFhm58
+#EXTINF:-1 tvg-name="Helsinki Port South (FI) YT" tvg-id="" tvg-logo="https://i.imgur.com/G35YVYs.png" group-title="WEBCAMS",Helsinki Port South (FI) YT
+plugin://plugin.video.youtube/play/?video_id=CvOB-Is_yYU
+#EXTINF:-1 tvg-name="Helsinki Port West (FI) YT" tvg-id="" tvg-logo="https://i.imgur.com/G35YVYs.png" group-title="WEBCAMS",Helsinki Port West (FI) YT
+plugin://plugin.video.youtube/play/?video_id=Xe64AIg_35s
+#EXTINF:-1 tvg-name="IISALMI (FI) YT" tvg-id="" tvg-logo="https://i.imgur.com/nws0hwN.png" group-title="WEBCAMS",IISALMI (FI) YT
+plugin://plugin.video.youtube/play/?video_id=-PlrdgDISRo
+#EXTINF:-1 tvg-name="JOENSUU TORI (FI) YT" tvg-id="" tvg-logo="https://i.imgur.com/0URqDSK.png" group-title="WEBCAMS",JOENSUU TORI (FI) YT
+plugin://plugin.video.youtube/play/?video_id=yA4aFD0AjDs
+#EXTINF:-1 tvg-name="Levi Activity Park (FI) YT" tvg-id="" tvg-logo="https://i.imgur.com/3omxQFG.jpg" group-title="WEBCAMS",Levi Activity Park (FI) YT
+plugin://plugin.video.youtube/play/?video_id=34gHiQsMV0Q
+#EXTINF:-1 tvg-name="Levi Hotel Panorama (FI) YT" tvg-id="" tvg-logo="https://i.imgur.com/3omxQFG.jpg" group-title="WEBCAMS",Levi Hotel Panorama (FI) YT
+plugin://plugin.video.youtube/play/?video_id=x6dja6Iz4tI
+#EXTINF:-1 tvg-name="Levi South Point (FI) YT" tvg-id="" tvg-logo="https://i.imgur.com/3omxQFG.jpg" group-title="WEBCAMS",Levi South Point (FI) YT
+plugin://plugin.video.youtube/play/?video_id=89vRm9bb9_c
+#EXTINF:-1 tvg-name="Levi Zero Point (FI) YT" tvg-id="" tvg-logo="https://i.imgur.com/3omxQFG.jpg" group-title="WEBCAMS",Levi Zero Point (FI) YT
+plugin://plugin.video.youtube/play/?video_id=LwihxyJ4V20
+#EXTINF:-1 tvg-name="NOKKALAN MAJAKKA (FI) YT" tvg-id="" tvg-logo="https://i.imgur.com/JC7kSZ8.jpg" group-title="WEBCAMS",NOKKALAN MAJAKKA (FI) YT
+plugin://plugin.video.youtube/play/?video_id=TCRfLzO3NbY
+#EXTINF:-1 tvg-name="Santa Claus Village (FI) YT" tvg-id="" tvg-logo="https://i.imgur.com/wNxc4vW.jpg" group-title="WEBCAMS",Santa Claus Village (FI) YT
+plugin://plugin.video.youtube/play/?video_id=VClJIez-w6Y
+#EXTINF:-1 tvg-name="Tonttula - Elves Village (FI) YT" tvg-id="" tvg-logo="https://i.imgur.com/heI2a1Y.jpg" group-title="WEBCAMS",Tonttula - Elves Village (FI) YT
+plugin://plugin.video.youtube/play/?video_id=vAwGZOJfdZo
+#EXTINF:-1 tvg-name="Yyteri Beach (FI) YT" tvg-id="" tvg-logo="https://i.imgur.com/uqnB47L.png" group-title="WEBCAMS",Yyteri Beach (FI) YT
+plugin://plugin.video.youtube/play/?video_id=Xhk8H-pb9i8
+#EXTINF:-1 tvg-name="Paris EIFFEL Tower (FR) YT" tvg-id="" tvg-logo="https://i.imgur.com/RBi46MV.jpeg" group-title="WEBCAMS",Paris EIFFEL Tower (FR) YT
+plugin://plugin.video.youtube/play/?video_id=iZipA1LL_sU
+#EXTINF:-1 tvg-name="Nuuk Airport North (GL) YT" tvg-id="" tvg-logo="https://i.imgur.com/qtJSz4U.jpg" group-title="WEBCAMS",Nuuk Airport North (GL) YT
+plugin://plugin.video.youtube/play/?video_id=XMs6LnT5mfk
+#EXTINF:-1 tvg-name="Nuuk Airport South (GL) YT" tvg-id="" tvg-logo="https://i.imgur.com/qtJSz4U.jpg" group-title="WEBCAMS",Nuuk Airport South (GL) YT
+plugin://plugin.video.youtube/play/?video_id=Gzj8WhyH2Sg
+#EXTINF:-1 tvg-name="Jelsa - Croatia (HR)" tvg-id="" tvg-logo="https://i.imgur.com/AjlTHRZ.jpg" group-title="WEBCAMS",Jelsa - Croatia (HR)
+https://cdn.livespotting.com/vpu/ggazg0ll/9itrcth2.m3u8
+#EXTINF:-1 tvg-name="Geldingadalir Langihryggur 1 (IS) YT" tvg-id="" tvg-logo="https://i.imgur.com/TJ9qVHj.jpg" group-title="WEBCAMS",Geldingadalir Langihryggur 1 (IS) YT
+plugin://plugin.video.youtube/play/?video_id=CEPvD8xo3B8
+#EXTINF:-1 tvg-name="Geldingadalir Langihryggur 2 (IS) YT" tvg-id="" tvg-logo="https://i.imgur.com/TJ9qVHj.jpg" group-title="WEBCAMS",Geldingadalir Langihryggur 2 (IS) YT
+plugin://plugin.video.youtube/play/?video_id=Wqr77tonNs0
+#EXTINF:-1 tvg-name="Reykjavik (IS) YT" tvg-id="" tvg-logo="https://i.imgur.com/PPwtr0f.png" group-title="WEBCAMS",Reykjavik (IS) YT
+plugin://plugin.video.youtube/play/?video_id=C9OGOt2cn4A
+#EXTINF:-1 tvg-name="Rialto Bridge Venice (IT) YT" tvg-id="" tvg-logo="https://i.imgur.com/46csOYI.jpg" group-title="WEBCAMS",Rialto Bridge Venice (IT) YT
+plugin://plugin.video.youtube/play/?video_id=K_Vg94nBiaY
+#EXTINF:-1 tvg-name="Sottomarina (IT) YT" tvg-id="" tvg-logo="https://i.imgur.com/SVsh0tE.png" group-title="WEBCAMS",Sottomarina (IT) YT
+plugin://plugin.video.youtube/play/?video_id=1pf1qjYpHlY
+#EXTINF:-1 tvg-name="Bishkek - Kyrgyzstan (KG)" tvg-id="" tvg-logo="https://i.imgur.com/UYZhUeC.jpg" group-title="WEBCAMS",Bishkek - Kyrgyzstan (KG)
+http://iptv.saima.kg/hls-cam/berengold.m3u8
+#EXTINF:-1 tvg-name="Aktau - Caspian Coast (KZ)" tvg-id="" tvg-logo="https://i.imgur.com/ev8YFyR.png" group-title="WEBCAMS",Aktau - Caspian Coast (KZ)
+http://cam.x-com.kz:8081/caspy14/index.m3u8
+#EXTINF:-1 tvg-name="Egmond aan Zee - Bad Egmond (NL) YT" tvg-id="" tvg-logo="https://i.imgur.com/DMsmIaA.jpg" group-title="WEBCAMS",Egmond aan Zee - Bad Egmond (NL) YT
+plugin://plugin.video.youtube/play/?video_id=Wuh-fXAbv4Y
+#EXTINF:-1 tvg-name="Egmond aan Zee - Strandafgang (NL) YT" tvg-id="" tvg-logo="https://i.imgur.com/DMsmIaA.jpg" group-title="WEBCAMS",Egmond aan Zee - Strandafgang (NL) YT
+plugin://plugin.video.youtube/play/?video_id=8UOT4PAxWmE
+#EXTINF:-1 tvg-name="Egmond aan Zee - Boulevard (NL) YT" tvg-id="" tvg-logo="https://i.imgur.com/DMsmIaA.jpg" group-title="WEBCAMS",Egmond aan Zee - Boulevard (NL) YT
+plugin://plugin.video.youtube/play/?video_id=L2obWMdThDg
+#EXTINF:-1 tvg-name="Egmond aan Zee - Nautilus (NL) YT" tvg-id="" tvg-logo="https://i.imgur.com/RFjsI3P.jpg" group-title="WEBCAMS",Egmond aan Zee - Nautilus (NL) YT
+plugin://plugin.video.youtube/play/?video_id=HcmPhNR84Xo
+#EXTINF:-1 tvg-name="Egmond aan Zee - Pompplein (NL) YT" tvg-id="" tvg-logo="https://i.imgur.com/DMsmIaA.jpg" group-title="WEBCAMS",Egmond aan Zee - Pompplein (NL) YT
+plugin://plugin.video.youtube/play/?video_id=IjSGWGt6xu8
+#EXTINF:-1 tvg-name="Bodøterminalen (NO) YT" tvg-id="" tvg-logo="https://i.imgur.com/tOVfity.jpg" group-title="WEBCAMS",Bodøterminalen (NO) YT
+plugin://plugin.video.youtube/play/?video_id=5BHJBR3_dv8
+#EXTINF:-1 tvg-name="Flåm Railway (NO) YT" tvg-id="" tvg-logo="https://i.imgur.com/92s5uHN.jpg" group-title="WEBCAMS",Flåm Railway (NO) YT
+plugin://plugin.video.youtube/play/?video_id=1qz3dUqjxF0
+#EXTINF:-1 tvg-name="Flåm Railway Bergen Line (NO) YT" tvg-id="" tvg-logo="https://i.imgur.com/92s5uHN.jpg" group-title="WEBCAMS",Flåm Railway Bergen Line (NO) YT
+plugin://plugin.video.youtube/play/?video_id=-imG6CNF9kI
+#EXTINF:-1 tvg-name="Geirangerfjord Port (NO) YT" tvg-id="" tvg-logo="https://i.imgur.com/b02r02l.png" group-title="WEBCAMS",Geirangerfjord Port (NO) YT
+plugin://plugin.video.youtube/play/?video_id=yMSc-qqW3To
+#EXTINF:-1 tvg-name="Jorpeland Port (NO) YT" tvg-id="" tvg-logo="https://i.imgur.com/KaIwBFA.png" group-title="WEBCAMS",Jorpeland Port (NO) YT
+plugin://plugin.video.youtube/play/?video_id=SyKE9_Mtjv0
+#EXTINF:-1 tvg-name="Måløy (NO) YT" tvg-id="" tvg-logo="https://i.imgur.com/uLOmRlM.png" group-title="WEBCAMS",Måløy (NO) YT
+plugin://plugin.video.youtube/play/?video_id=-VxViCUlZVk
+#EXTINF:-1 tvg-name="Nordfjordeid Port (NO) YT" tvg-id="" tvg-logo="https://i.imgur.com/ThvuKsJ.png" group-title="WEBCAMS",Nordfjordeid Port (NO) YT
+plugin://plugin.video.youtube/play/?video_id=atjCv4LYjTI
+#EXTINF:-1 tvg-name="NordfjordHjort (NO) YT" tvg-id="" tvg-logo="https://i.imgur.com/IbxmruM.jpg" group-title="WEBCAMS",NordfjordHjort (NO) YT
+plugin://plugin.video.youtube/play/?video_id=fpWVAZRb0R0
+#EXTINF:-1 tvg-name="Norway Live (NO)" tvg-id="" tvg-logo="https://i.imgur.com/nto95o0.jpg" group-title="WEBCAMS",Norway Live (NO)
+plugin://plugin.video.youtube/play/?video_id=A86RXuRNjk4
+#EXTINF:-1 tvg-name="Skarsvåg North Cape (NO) YT" tvg-id="" tvg-logo="https://i.imgur.com/b6Crv6W.png" group-title="WEBCAMS",Skarsvåg North Cape (NO) YT
+plugin://plugin.video.youtube/play/?video_id=c4kpeZHcke8
+#EXTINF:-1 tvg-name="Tromsø (NO)" tvg-id="" tvg-logo="https://i.imgur.com/xW00Hj4.jpg" group-title="WEBCAMS",Tromsø (NO)
+plugin://plugin.video.youtube/play/?video_id=cXKX8A37W2I
+#EXTINF:-1 tvg-name="Gdansk (PL)" tvg-id="" tvg-logo="https://i.imgur.com/OCCT7Tm.png" group-title="WEBCAMS",Gdansk (PL)
+http://hoktastream4.webcamera.pl/gdansk_cam_77aeaf/gdansk_cam_77aeaf.stream/chunks.m3u8
+#EXTINF:-1 tvg-name="Krakow (PL)" tvg-id="" tvg-logo="https://i.imgur.com/XPS4H6p.png" group-title="WEBCAMS",Krakow (PL)
+http://hoktastream2.webcamera.pl/krakow_cam_4c3e37/krakow_cam_4c3e37.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Kolobrzeg (PL)" tvg-id="" tvg-logo="https://i.imgur.com/RGjix1K.png" group-title="WEBCAMS",Kolobrzeg (PL)
+http://hoktastream4.webcamera.pl/nocowanie_cam_a32dd1/nocowanie_cam_a32dd1.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Krupowki (PL)" tvg-id="" tvg-logo="https://i.imgur.com/60OW17l.png" group-title="WEBCAMS",Krupowki (PL)
+https://hoktastream4.webcamera.pl/krupowki2_cam_62169a/krupowki2_cam_62169a.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Barra (PT)" tvg-id="" tvg-logo="https://i.imgur.com/KeDelbH.png" group-title="WEBCAMS",Barra (PT)
+http://video-auth1.iol.pt:1935/beachcam/aveiro/chunks.m3u8
+#EXTINF:-1 tvg-name="Romania Church (RO)" tvg-id="" tvg-logo="https://i.imgur.com/xgIqb0p.jpg" group-title="WEBCAMS",Romania Church (RO)
+http://media.ercis.ro:9999/cmareis/playlist.m3u8
+#EXTINF:-1 tvg-name="Moscow 1 (RU)" tvg-id="" tvg-logo="https://i.imgur.com/ycA2mzJ.png" group-title="WEBCAMS",Moscow 1 (RU)
+http://57820f09e94a7.streamlock.net/live/Metropolia2.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Moscow 2 (RU)" tvg-id="" tvg-logo="https://i.imgur.com/ycA2mzJ.png" group-title="WEBCAMS",Moscow 2 (RU)
+http://77.108.82.59:8080/R2/index.m3u8
+#EXTINF:-1 tvg-name="Murino (RU)" tvg-id="" tvg-logo="https://i.imgur.com/ShjKl3m.png" group-title="WEBCAMS",Murino (RU)
+http://91.202.44.216:8080/cam1/index.m3u8
+#EXTINF:-1 tvg-name="Murino - Server room (RU)" tvg-id="" tvg-logo="https://i.imgur.com/ShjKl3m.png" group-title="WEBCAMS",Murino - Server room (RU)
+http://91.202.44.216:8080/cam22/index.m3u8
+#EXTINF:-1 tvg-name="Sochi (RU)" tvg-id="" tvg-logo="https://i.imgur.com/FKWPNG2.png" group-title="WEBCAMS",Sochi (RU)
+http://sochi.camera:8080/cam_185/index.m3u8?token=null
+#EXTINF:-1 tvg-name="Stockholm (SE) YT" tvg-id="" tvg-logo="https://i.imgur.com/jN1s9Eo.png" group-title="WEBCAMS",Stockholm (SE) YT
+plugin://plugin.video.youtube/play/?video_id=NCfMPD5A6hQ
+#EXTINF:-1 tvg-name="Varberg Apelviken (SE) YT" tvg-id="" tvg-logo="https://i.imgur.com/iOgsrUy.jpg" group-title="WEBCAMS",Varberg Apelviken (SE) YT
+plugin://plugin.video.youtube/play/?video_id=B9PArpYdJRc
+#EXTINF:-1 tvg-name="Varberg Brunnsparken (SE) YT" tvg-id="" tvg-logo="https://i.imgur.com/iOgsrUy.jpg" group-title="WEBCAMS",Varberg Brunnsparken (SE) YT
+plugin://plugin.video.youtube/play/?video_id=IEDF51akADs
+#EXTINF:-1 tvg-name="Varberg Kåsa Strand (SE) YT" tvg-id="" tvg-logo="https://i.imgur.com/iOgsrUy.jpg" group-title="WEBCAMS",Varberg Kåsa Strand (SE) YT
+plugin://plugin.video.youtube/play/?video_id=p49CeURYHUM
+#EXTINF:-1 tvg-name="Varbergs Torg (SE)" tvg-id="" tvg-logo="https://i.imgur.com/iOgsrUy.jpg" group-title="WEBCAMS",Varbergs Torg (SE) YT
+plugin://plugin.video.youtube/play/?video_id=bkvaeX5EoUs
+#EXTINF:-1 tvg-name="Berdyansk Hall (UA)" tvg-id="" tvg-logo="https://i.imgur.com/WPS2AiI.jpg" group-title="WEBCAMS",Berdyansk Hall (UA)
+https://stream.bmr.gov.ua/hls/511.m3u8
+#EXTINF:-1 tvg-name="Ilfracombe 1 (UK)" tvg-id="" tvg-logo="https://i.imgur.com/0hn7fBF.jpg" group-title="WEBCAMS",Ilfracombe 1 (UK)
+http://camsecure.co/HLS/ilfracombe2.m3u8
+#EXTINF:-1 tvg-name="Ilfracombe 2 (UK)" tvg-id="" tvg-logo="https://i.imgur.com/0hn7fBF.jpg" group-title="WEBCAMS",Ilfracombe 2 (UK)
+http://camsecure.co/HLS/ilfracombe1.m3u8
+#EXTINF:-1 tvg-name="Lindisfarne Castle (UK)" tvg-id="" tvg-logo="https://i.imgur.com/ryI0xG6.jpg" group-title="WEBCAMS",Lindisfarne Castle (UK)
+https://s4.ipcamlive.com/streams/04vc5ubzj7vdrn1g4/stream.m3u8
+#EXTINF:-1 tvg-name="LONDON BUS RIDES (UK) YT" tvg-id="" tvg-logo="https://i.imgur.com/zakw9IH.png" group-title="WEBCAMS",LONDON BUS RIDES (UK) YT
+plugin://plugin.video.youtube/play/?video_id=_fEFwOp2wLE
+#EXTINF:-1 tvg-name="London Underground Person Journey (UK) YT" tvg-id="" tvg-logo="https://i.imgur.com/zakw9IH.png" group-title="WEBCAMS",London Underground Person Journey (UK) YT
+plugin://plugin.video.youtube/play/?video_id=2g-0sA13Sp8
+#EXTINF:-1 tvg-name="Turks- and Caicos Island (UK)" tvg-id="" tvg-logo="https://i.imgur.com/uAkdxIq.png" group-title="WEBCAMS",Turks- and Caicos Island (UK)
+https://live.hdontap.com/hls/hosb3/turks-caicos_seven_stars_resort.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Downtown Wilmington (US)" tvg-id="" tvg-logo="https://i.imgur.com/11uMsDI.png" group-title="WEBCAMS",Downtown Wilmington (US)
+http://169.47.9.197:1935/live/dw.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Green Parrot Bar 1 (US)" tvg-id="" tvg-logo="https://i.imgur.com/YxS7Vla.jpg" group-title="WEBCAMS",Green Parrot Bar 1 (US)
+http://wse1.resortcams.com/live/greenparrot2.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Green Parrot Bar 2 (US)" tvg-id="" tvg-logo="https://i.imgur.com/YxS7Vla.jpg" group-title="WEBCAMS",Green Parrot Bar 2 (US)
+https://55507e0501d25.streamlock.net/live/greenparrot1-audio.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="New York-Brooklyn Bridge (US) YT" tvg-id="" tvg-logo="https://i.imgur.com/MRTC2Dk.jpg" group-title="WEBCAMS",New York-Brooklyn Bridge (US) YT
+plugin://plugin.video.youtube/play/?video_id=KGuCGd726RA
