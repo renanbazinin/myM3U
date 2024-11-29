@@ -17,9 +17,6 @@ https://bcovlive-a.akamaihd.net/54b8e6b753e3409c91856201d1f08731/eu-central-1/53
 #EXTINF:-1 tvg-id="knesset" tvg-name="knesset" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/4/43/Knessetch10.svg/1200px-Knessetch10.svg.png" group-title="Israel",knesset
 https://contactgbs.mmdlive.lldns.net/contactgbs/a40693c59c714fecbcba2cee6e5ab957/chunklist_b1128000.m3u8
 
-#EXTINF:-1 tvg-id="RelevantTV.il" tvg-logo="https://i.imgur.com/jCZ5gFO.png" group-title="Israel",Relevant TV (1080p)
-https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/06e44cd7f7e0445fbd669f279c997fd4/index.mpd
-
 #EXTINF:-1 tvg-id="BloombergTV.us" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="USA",Bloomberg TV
 https://bloomberg-bloomberg-1-be.samsung.wurl.tv/playlist.m3u8
 
