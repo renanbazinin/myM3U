@@ -28059,3 +28059,41 @@ adaptive: Changing stream format Unknown -> TS
 http error: local stream 7 error: Cancellation (0x8)
 direct3d11 error: SetThumbNailClip failed: 0x800706f4
 -- logger module stopped --
+﻿-- logger module started --
+main: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+adaptive: Changing stream format Unknown -> TS
+mpeg4audio: AAC channels: 2 samplerate: 44100
+avcodec: Using D3D11VA (NVIDIA GeForce RTX 3060 Ti, vendor 10de(NVIDIA), device 2489, revision a1) for hardware decoding
+adaptive: Ending demuxer stream. [needrestart]
+adaptive: Changing stream format Unknown -> WebVTT
+http error: local stream 1 error: Cancellation (0x8)
+adaptive: Changing stream format Unknown -> TS
+mpeg4audio: AAC channels: 2 samplerate: 48000
+direct3d11 error: SetThumbNailClip failed: 0x800706f4
+avcodec: Using D3D11VA (NVIDIA GeForce RTX 3060 Ti, vendor 10de(NVIDIA), device 2489, revision a1) for hardware decoding
+http error: local stream 3 error: Cancellation (0x8)
+adaptive: Ending demuxer stream. [needrestart]
+http error: local stream 5 error: Cancellation (0x8)
+direct3d11 error: SetThumbNailClip failed: 0x800706f4
+-- logger module stopped --
+﻿-- logger module started --
+main: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+adaptive: Changing stream format Unknown -> TS
+mpeg4audio: AAC channels: 2 samplerate: 44100
+avcodec: Using D3D11VA (NVIDIA GeForce RTX 3060 Ti, vendor 10de(NVIDIA), device 2489, revision a1) for hardware decoding
+adaptive: Ending demuxer stream. [needrestart]
+mpeg4audio: AAC channels: 2 samplerate: 48000
+direct3d11 error: SetThumbNailClip failed: 0x800706f4
+avcodec: Using D3D11VA (NVIDIA GeForce RTX 3060 Ti, vendor 10de(NVIDIA), device 2489, revision a1) for hardware decoding
+adaptive: Changing stream format Unknown -> TS
+direct3d11 error: SetThumbNailClip failed: 0x800706f4
+avcodec: Using D3D11VA (NVIDIA GeForce RTX 3060 Ti, vendor 10de(NVIDIA), device 2489, revision a1) for hardware decoding
+main error: cannot resolve reuters-reutersnow-1-pt.samsung.wurl.com port 443: No such host is known. 
+access error: HTTP connection failure
+adaptive: Changing stream format Unknown -> TS
+mpeg4audio: AAC channels: 2 samplerate: 48000
+direct3d11 error: SetThumbNailClip failed: 0x800706f4
+avcodec: Using D3D11VA (NVIDIA GeForce RTX 3060 Ti, vendor 10de(NVIDIA), device 2489, revision a1) for hardware decoding
+adaptive: Ending demuxer stream. [needrestart]
+direct3d11 error: SetThumbNailClip failed: 0x800706f4
+-- logger module stopped --
