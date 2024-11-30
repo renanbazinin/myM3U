@@ -18,7 +18,7 @@ https://bcovlive-a.akamaihd.net/54b8e6b753e3409c91856201d1f08731/eu-central-1/53
 https://contactgbs.mmdlive.lldns.net/contactgbs/a40693c59c714fecbcba2cee6e5ab957/chunklist_b1128000.m3u8
 
 #EXTINF:-1 tvg-id="BloombergTV.us" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="USA",Bloomberg TV
-https://bloomberg-bloomberg-1-be.samsung.wurl.tv/playlist.m3u8
+https://dai.google.com/linear/hls/pa/event/BVlOmFGaTi6NpchccR14yA/stream/bdf0111a-ec3f-45a9-8efe-e5ca7ad5bf0c:BRU/variant/dd0a1227701dfa2d888d4bd736db2793/bandwidth/3000000.m3u8
 
 #EXTINF:-1 tvg-id="BloombergTVPlus.us" tvg-logo="https://i.imgur.com/xGlToly.png" group-title="USA",Bloomberg TV+ UHD (2160p)
 https://bloomberg-bloombergtv-1-es.samsung.wurl.com/manifest/playlist.m3u8
