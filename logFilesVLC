@@ -28097,3 +28097,15 @@ avcodec: Using D3D11VA (NVIDIA GeForce RTX 3060 Ti, vendor 10de(NVIDIA), device 
 adaptive: Ending demuxer stream. [needrestart]
 direct3d11 error: SetThumbNailClip failed: 0x800706f4
 -- logger module stopped --
+﻿-- logger module started --
+main: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+adaptive: Changing stream format Unknown -> TS
+mpeg4audio: AAC channels: 2 samplerate: 44100
+avcodec: Using D3D11VA (NVIDIA GeForce RTX 3060 Ti, vendor 10de(NVIDIA), device 2489, revision a1) for hardware decoding
+adaptive: Ending demuxer stream. [needrestart]
+adaptive: Changing stream format Unknown -> TS
+mpeg4audio: AAC channels: 2 samplerate: 48000
+direct3d11 error: SetThumbNailClip failed: 0x800706f4
+avcodec: Using D3D11VA (NVIDIA GeForce RTX 3060 Ti, vendor 10de(NVIDIA), device 2489, revision a1) for hardware decoding
+direct3d11 error: SetThumbNailClip failed: 0x800706f4
+-- logger module stopped --
