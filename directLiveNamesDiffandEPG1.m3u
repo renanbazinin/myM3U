@@ -6,7 +6,7 @@ https://kan11w.media.kan.org.il/hls/live/2105694/2105694/master.m3u8
 https://pwultrp.alwaysdata.net/kccsub.php?m3u8
 
 #EXTINF:-1 tvg-id="13-kanal-il" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/1/17/Reshet13Logo2022.svg/640px-Reshet13Logo2022.svg.png" group-title="Israel", reshet 13
-https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
+https://reshet.g-mana.live/media/87f59c77-03f6-4bad-a648-897e095e7360/profile/0/profileManifest.m3u8?_uid=b0856b94-a124-4833-8e41-6e9203dee164&rK=a2&_did=060ace25-0dc8-4b22-974a-d8ddee283ed4
 
 #EXTINF:-1 tvg-id="14-kanal-il"   tvg-logo="https://www.now14.co.il/wp-content/uploads/2022/06/%D7%9C%D7%95%D7%92%D7%95-%D7%A9%D7%A7%D7%95%D7%A3-02-e1659629999469.png" group-title="Israel",now 14
 https://ch14-channel14-content.akamaized.net/hls/live/2104807/CH14_CHANNEL14/2/streamPlaylist.m3u8
