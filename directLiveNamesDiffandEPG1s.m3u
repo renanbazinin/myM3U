@@ -12,7 +12,7 @@ https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/in
 https://ch14-channel14-content.akamaized.net/hls/live/2104807/CH14_CHANNEL14/2/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-id="i24-il"   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/LOGO_i24NEWS.png" group-title="Israel",i24 hebrew
-https://bcovlive-a.akamaihd.net/54b8e6b753e3409c91856201d1f08731/eu-central-1/5377161796001/profile_0/chunklist.m3u8
+https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/profile_0/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="knesset" tvg-name="knesset" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/4/43/Knessetch10.svg/1200px-Knessetch10.svg.png" group-title="Israel",knesset
 https://contactgbs.mmdlive.lldns.net/contactgbs/a40693c59c714fecbcba2cee6e5ab957/chunklist_b1128000.m3u8
