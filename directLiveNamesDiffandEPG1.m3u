@@ -23,8 +23,11 @@ https://dai.google.com/linear/hls/pa/event/BVlOmFGaTi6NpchccR14yA/stream/bdf0111
 #EXTINF:-1 tvg-id="BloombergTVPlus.us" tvg-logo="https://i.imgur.com/xGlToly.png" group-title="USA",Bloomberg TV+ UHD (2160p)
 https://bloomberg-bloombergtv-1-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="USA",FOX News Now (720p)
-https://dcs-live-ue4.mp.lura.live/server/play/5Awwm3GfagVzfpdA/rendition.m3u8?track=video-0&anvsid=m177635107-n6494ef49b87cbc8c26cbb6e181fe2bce&ts=1742077799&anvtrid=8173a0da8b24136c944d56a209c54725
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="News" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",Fox News Channel (720p)
+#EXTVLCOPT:http-referrer=https://www.newslive.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
+
 
 #EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="USA",NBC News Now (1080p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
