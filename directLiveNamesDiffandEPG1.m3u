@@ -24,7 +24,7 @@ https://dai.google.com/linear/hls/pa/event/BVlOmFGaTi6NpchccR14yA/stream/bdf0111
 https://bloomberg-bloombergtv-1-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="USA",FOX News Now (720p)
-https://dcs-live-ue1.mp.lura.live/server/play/5Awwm3GfagVzfpdA/rendition.m3u8?track=video-0&anvsid=m177618734-na0066ef9510220338884c186f6e5cfd1&ts=1742066156&anvtrid=a502095d070941e5dfe3b09716607c04
+https://dcs-live-ue4.mp.lura.live/server/play/5Awwm3GfagVzfpdA/rendition.m3u8?track=video-0&anvsid=m177635107-n6494ef49b87cbc8c26cbb6e181fe2bce&ts=1742077799&anvtrid=8173a0da8b24136c944d56a209c54725
 
 #EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="USA",NBC News Now (1080p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
