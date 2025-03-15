@@ -28174,3 +28174,68 @@ http error: local stream 11 error: Stream closed (0x5)
 http error: local stream 11 error: Stream closed (0x5)
 direct3d11 error: SetThumbNailClip failed: 0x800706f4
 -- logger module stopped --
+﻿-- logger module started --
+main: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+adaptive: Changing stream format Unknown -> TS
+mpeg4audio: AAC channels: 2 samplerate: 48000
+avcodec: Using D3D11VA (NVIDIA GeForce RTX 3060 Ti, vendor 10de(NVIDIA), device 2489, revision a1) for hardware decoding
+access error: HTTP 403 error
+main error: cannot resolve dai2.xumo.com port 443: No such host is known. 
+access error: HTTP connection failure
+adaptive: Changing stream format Unknown -> TS
+mpeg4audio: AAC channels: 2 samplerate: 48000
+direct3d11 error: SetThumbNailClip failed: 0x800706f4
+avcodec: Using D3D11VA (NVIDIA GeForce RTX 3060 Ti, vendor 10de(NVIDIA), device 2489, revision a1) for hardware decoding
+http error: local stream 5 error: Cancellation (0x8)
+adaptive: Ending demuxer stream. [needrestart]
+http error: local stream 11 error: Cancellation (0x8)
+http error: local stream 15 error: Cancellation (0x8)
+http error: local stream 15 error: Stream closed (0x5)
+http error: local stream 15 error: Stream closed (0x5)
+http error: local stream 15 error: Stream closed (0x5)
+http error: local stream 15 error: Stream closed (0x5)
+http error: local stream 15 error: Stream closed (0x5)
+http error: local stream 15 error: Stream closed (0x5)
+http error: local stream 15 error: Stream closed (0x5)
+http error: local stream 15 error: Stream closed (0x5)
+http error: local stream 15 error: Stream closed (0x5)
+http error: local stream 15 error: Stream closed (0x5)
+http error: local stream 15 error: Stream closed (0x5)
+http error: local stream 15 error: Stream closed (0x5)
+http error: local stream 15 error: Stream closed (0x5)
+http error: local stream 15 error: Stream closed (0x5)
+http error: local stream 15 error: Stream closed (0x5)
+http error: local stream 15 error: Stream closed (0x5)
+http error: local stream 15 error: Stream closed (0x5)
+http error: local stream 15 error: Stream closed (0x5)
+http error: local stream 15 error: Stream closed (0x5)
+http error: local stream 15 error: Stream closed (0x5)
+http error: local stream 15 error: Stream closed (0x5)
+http error: local stream 15 error: Stream closed (0x5)
+http error: local stream 15 error: Stream closed (0x5)
+http error: local stream 15 error: Stream closed (0x5)
+http error: local stream 15 error: Stream closed (0x5)
+http error: local stream 15 error: Stream closed (0x5)
+http error: local stream 15 error: Stream closed (0x5)
+http error: local stream 15 error: Stream closed (0x5)
+http error: local stream 15 error: Stream closed (0x5)
+direct3d11 error: SetThumbNailClip failed: 0x800706f4
+-- logger module stopped --
+﻿-- logger module started --
+main: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+adaptive: Changing stream format Unknown -> TS
+mpeg4audio: AAC channels: 2 samplerate: 48000
+avcodec: Using D3D11VA (NVIDIA GeForce RTX 3060 Ti, vendor 10de(NVIDIA), device 2489, revision a1) for hardware decoding
+direct3d11 error: SetThumbNailClip failed: 0x800706f4
+-- logger module stopped --
+﻿-- logger module started --
+main: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+adaptive: Changing stream format Unknown -> TS
+mpeg4audio: AAC channels: 2 samplerate: 48000
+avcodec: Using D3D11VA (NVIDIA GeForce RTX 3060 Ti, vendor 10de(NVIDIA), device 2489, revision a1) for hardware decoding
+adaptive: Changing stream format Unknown -> TS
+mpeg4audio: AAC channels: 2 samplerate: 44100
+direct3d11 error: SetThumbNailClip failed: 0x800706f4
+avcodec: Using D3D11VA (NVIDIA GeForce RTX 3060 Ti, vendor 10de(NVIDIA), device 2489, revision a1) for hardware decoding
+direct3d11 error: SetThumbNailClip failed: 0x800706f4
+-- logger module stopped --
