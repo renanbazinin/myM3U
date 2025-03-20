@@ -43,6 +43,9 @@ https://d1yx2biofua75q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="WE2" tvg-logo="https://www.br.de/mediathek/static/Brand_ogp.png" group-title="WeatherSki",Weather EU 2
 https://brevent.akamaized.net/hls/live/2028222-b/event_05/master720p3200.m3u8
 
+#EXTINF:-1 tvg-id="WEP" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2016/07/14115855/logo_ServusTV.png" group-title="WeatherSki",Weather EU Panorama
+https://rbmn-live.akamaized.net/hls/live/665268/Wetterpanorama/master_6692.m3u8
+
 #EXTINF:-1 tvg-id="RickAndMorty" tvg-logo="https://media.cdn.adultswim.com/uploads/20220904/2294143541-RAMMobileHero.png" group-title="TvShowMarathons",Rick and morty (720) HD
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_7.m3u8
 
