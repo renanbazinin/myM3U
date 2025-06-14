@@ -18,10 +18,10 @@ https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/53
 https://contactgbs.mmdlive.lldns.net/contactgbs/a40693c59c714fecbcba2cee6e5ab957/chunklist_b1128000.m3u8
 
 #EXTINF:-1 tvg-id="BloombergTV.us" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="USA",Bloomberg TV
-https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+https://bloomberg.com/media-manifest/streams/us.m3u8
 
 #EXTINF:-1 tvg-id="BloombergTVPlus.us" tvg-logo="https://i.imgur.com/xGlToly.png" group-title="USA",Bloomberg TV+ UHD (2160p)
-https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+https://bloomberg.com/media-manifest/streams/us.m3u8
 
 #EXTINF:-1 tvg-id="FoxLiveNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/LiveNOW_from_FOX.png/960px-LiveNOW_from_FOX.png" group-title="News" ,Fox Live
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
