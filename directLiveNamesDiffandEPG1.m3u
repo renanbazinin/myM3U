@@ -15,7 +15,7 @@ https://ch14-channel14-content.akamaized.net/hls/live/2104807/CH14_CHANNEL14/2/s
 https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/profile_0/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="knesset" tvg-name="knesset" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/4/43/Knessetch10.svg/1200px-Knessetch10.svg.png" group-title="Israel",knesset
-https://contactgbs.mmdlive.lldns.net/contactgbs/a40693c59c714fecbcba2cee6e5ab957/chunklist_b1128000.m3u8
+https://kneset.gostreaming.tv/p2-kneset/_definst_/myStream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="BloombergTV.us" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="USA",Bloomberg TV
 https://bloomberg.com/media-manifest/streams/us.m3u8
