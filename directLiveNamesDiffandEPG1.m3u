@@ -12,7 +12,7 @@ https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/reshet_13_hevc/liv
 https://n-121-5.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="i24-il" tvg-logo="https://i.imgur.com/hnGgzEf.png" group-title="Israel",i24 hebrew
-https://i24-stream-902812087252.me-west1.run.app/i24/he
+https://i24-stream-902812087252.me-west1.run.app/play/he
 
 #EXTINF:-1 tvg-id="knesset" tvg-name="knesset" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/4/43/Knessetch10.svg/1200px-Knessetch10.svg.png" group-title="Israel",knesset
 https://kneset.gostreaming.tv/p2-kneset/_definst_/myStream/chunklist.m3u8
