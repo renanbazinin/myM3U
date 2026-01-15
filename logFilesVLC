@@ -1566,3 +1566,35 @@ http error: local stream 3 error: Cancellation (0x8)
 http error: local stream 7 error: Cancellation (0x8)
 direct3d11 error: SetThumbNailClip failed: 0x800706f4
 -- logger module stopped --
+﻿-- logger module started --
+main: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+adaptive: Changing stream format Unknown -> TS
+mpeg4audio: AAC channels: 2 samplerate: 48000
+avcodec: Using D3D11VA (NVIDIA GeForce RTX 3060 Ti, vendor 10de(NVIDIA), device 2489, revision a1) for hardware decoding
+http error: local stream 1 error: Cancellation (0x8)
+adaptive: Changing stream format Unknown -> TS
+http error: local stream 3 error: Cancellation (0x8)
+mpeg4audio: AAC channels: 2 samplerate: 48000
+direct3d11 error: SetThumbNailClip failed: 0x800706f4
+http error: local stream 5 error: Cancellation (0x8)
+adaptive: Ending demuxer stream. [needrestart]
+avcodec: Using D3D11VA (NVIDIA GeForce RTX 3060 Ti, vendor 10de(NVIDIA), device 2489, revision a1) for hardware decoding
+http error: local stream 7 error: Cancellation (0x8)
+direct3d11 error: SetThumbNailClip failed: 0x800706f4
+-- logger module stopped --
+﻿-- logger module started --
+main: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+adaptive: Changing stream format Unknown -> TS
+mpeg4audio: AAC channels: 2 samplerate: 48000
+avcodec: Using D3D11VA (NVIDIA GeForce RTX 3060 Ti, vendor 10de(NVIDIA), device 2489, revision a1) for hardware decoding
+adaptive: Changing stream format Unknown -> MP4
+mp4: Fragment sequence discontinuity detected 884234119 != 0
+mp4: Fragment sequence discontinuity detected 884234122 != 884234120
+adaptive: Changing stream format Unknown -> MP4
+mp4: Fragment sequence discontinuity detected 884234119 != 0
+mp4: Fragment sequence discontinuity detected 884234125 != 884234123
+mp4: Fragment sequence discontinuity detected 884234122 != 884234120
+avcodec: Using D3D11VA (NVIDIA GeForce RTX 3060 Ti, vendor 10de(NVIDIA), device 2489, revision a1) for hardware decoding
+mp4: Fragment sequence discontinuity detected 884234125 != 884234123
+direct3d11 error: SetThumbNailClip failed: 0x800706f4
+-- logger module stopped --
