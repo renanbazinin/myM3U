@@ -35,7 +35,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 
 
 #EXTINF:-1 tvg-id="WE2" tvg-logo="https://www.br.de/mediathek/static/Brand_ogp.png" group-title="WeatherSki",Weather EU 2
-https://i24-stream-902812087252.me-west1.run.app/play/br/master
+https://sim24url-902812087252.me-west1.run.app/play/br/master
 
 #EXTINF:-1 tvg-id="WEP" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2016/07/14115855/logo_ServusTV.png" group-title="WeatherSki",Weather EU Panorama
 https://rbmn-live.akamaized.net/hls/live/665268/Wetterpanorama/master_6692.m3u8
