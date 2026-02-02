@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1  tvg-id="11-kanal-il" tvg-logo="https://diversityisrael.org.il/wp-content/uploads/kan-200x145.png" group-title="Israel",kan 11
-https://kan11w.media.kan.org.il/hls/live/2105694/2105694/source1_4k/chunklist.m3u8
+https://fetcher-token-902812087252.me-west1.run.app/play/kan
 
 #EXTINF:-1  tvg-id="12-kanal-il" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Keshet12_2018.svg/1200px-Keshet12_2018.svg.png" group-title="Israel",keshet 12
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/keshet_12_hevc/live.livx/playlist.m3u8?fmp4&renditions&dvr=28800000
@@ -12,7 +12,7 @@ https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/reshet_13_hevc/liv
 https://n-121-5.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="i24-il" tvg-logo="https://i.imgur.com/hnGgzEf.png" group-title="Israel",i24 hebrew
-https://i24-stream-902812087252.me-west1.run.app/play/he
+https://fetcher-token-902812087252.me-west1.run.app/play/he
 
 #EXTINF:-1 tvg-id="knesset" tvg-name="knesset" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/4/43/Knessetch10.svg/1200px-Knessetch10.svg.png" group-title="Israel",knesset
 https://kneset.gostreaming.tv/p2-kneset/_definst_/myStream/chunklist.m3u8
@@ -35,7 +35,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 
 
 #EXTINF:-1 tvg-id="WE2" tvg-logo="https://www.br.de/mediathek/static/Brand_ogp.png" group-title="WeatherSki",Weather EU 2
-https://sim24url-902812087252.me-west1.run.app/play/br/master
+https://fetcher-token-902812087252.me-west1.run.app/play/br/master
 
 #EXTINF:-1 tvg-id="WEP" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2016/07/14115855/logo_ServusTV.png" group-title="WeatherSki",Weather EU Panorama
 https://rbmn-live.akamaized.net/hls/live/665268/Wetterpanorama/master_6692.m3u8
