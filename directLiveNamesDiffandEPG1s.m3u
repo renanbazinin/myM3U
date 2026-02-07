@@ -1,44 +1,41 @@
 #EXTM3U
 #EXTINF:-1  tvg-id="11-kanal-il" tvg-logo="https://diversityisrael.org.il/wp-content/uploads/kan-200x145.png" group-title="Israel",kan 11
-https://kan11w.media.kan.org.il/hls/live/2105694/2105694/source1_4k/chunklist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 
 #EXTINF:-1  tvg-id="12-kanal-il" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Keshet12_2018.svg/1200px-Keshet12_2018.svg.png" group-title="Israel",keshet 12
-https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12/profile/3/profileManifest.m3u8?_uid=a004f873-f654-4ab8-a86c-4aa2bbfc909d&rK=a1
-
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/keshet_12_hevc/live.livx/playlist.m3u8?fmp4&renditions&dvr=28800000
 
 #EXTINF:-1 tvg-id="13-kanal-il" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/1/17/Reshet13Logo2022.svg/640px-Reshet13Logo2022.svg.png" group-title="Israel", reshet 13
-https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/reshet_13_hevc/live.livx/playlist.m3u8?fmp4&renditions&dvr=28800000
 
 #EXTINF:-1 tvg-id="14-kanal-il"   tvg-logo="https://www.now14.co.il/wp-content/uploads/2022/06/%D7%9C%D7%95%D7%92%D7%95-%D7%A9%D7%A7%D7%95%D7%A3-02-e1659629999469.png" group-title="Israel",now 14
-https://ch14-channel14-content.akamaized.net/hls/live/2104807/CH14_CHANNEL14/2/streamPlaylist.m3u8
+https://n-121-5.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
 
-#EXTINF:-1 tvg-id="i24-il"   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/LOGO_i24NEWS.png" group-title="Israel",i24 hebrew
-https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/profile_0/chunklist.m3u8
+#EXTINF:-1 tvg-id="i24-il" tvg-logo="https://i.imgur.com/hnGgzEf.png" group-title="Israel",i24 hebrew
+https://fetcher-token-902812087252.me-west1.run.app/play/he
 
 #EXTINF:-1 tvg-id="knesset" tvg-name="knesset" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/4/43/Knessetch10.svg/1200px-Knessetch10.svg.png" group-title="Israel",knesset
 https://kneset.gostreaming.tv/p2-kneset/_definst_/myStream/chunklist.m3u8
 
-
 #EXTINF:-1 tvg-id="BloombergTV.us" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="USA",Bloomberg TV
-https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+https://bloomberg.com/media-manifest/streams/us.m3u8
 
 #EXTINF:-1 tvg-id="BloombergTVPlus.us" tvg-logo="https://i.imgur.com/xGlToly.png" group-title="USA",Bloomberg TV+ UHD (2160p)
-https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+https://bloomberg.com/media-manifest/streams/us.m3u8
 
 #EXTINF:-1 tvg-id="FoxLiveNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/LiveNOW_from_FOX.png/960px-LiveNOW_from_FOX.png" group-title="News" ,Fox Live
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="ReutersTV.us" tvg-logo="https://i.imgur.com/6eQ2nCJ.png" group-title="USA",Reuters
 https://amg00453-reuters-amg00453c1-samsung-de-2111.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-samsungde/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://i.imgur.com/05S3yYZ.png" group-title="USA",CNN International Europe
-https://d1yx2biofua75q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-agcuky3hp0j0j/index.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 
 #EXTINF:-1 tvg-id="WE2" tvg-logo="https://www.br.de/mediathek/static/Brand_ogp.png" group-title="WeatherSki",Weather EU 2
-https://brevent.akamaized.net/hls/live/2028222-b/event_05/master720p3200.m3u8
+https://fetcher-token-902812087252.me-west1.run.app/play/br/master
 
 #EXTINF:-1 tvg-id="WEP" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2016/07/14115855/logo_ServusTV.png" group-title="WeatherSki",Weather EU Panorama
 https://rbmn-live.akamaized.net/hls/live/665268/Wetterpanorama/master_6692.m3u8
