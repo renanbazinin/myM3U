@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1  tvg-id="11-kanal-il" tvg-logo="https://diversityisrael.org.il/wp-content/uploads/kan-200x145.png" group-title="Israel",kan 11
+#EXTINF:-1  tvg-id="11-kanal-il" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kan11Logo.svg/1280px-Kan11Logo.svg.png" group-title="Israel",kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 
-#EXTINF:-1  tvg-id="12-kanal-il" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Keshet12_2018.svg/1200px-Keshet12_2018.svg.png" group-title="Israel",keshet 12
+#EXTINF:-1  tvg-id="12-kanal-il" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Keshet12_2018.svg/1280px-Keshet12_2018.svg.png" group-title="Israel",keshet 12
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/keshet_12_hevc/live.livx/playlist.m3u8?fmp4&renditions&dvr=28800000
 
-#EXTINF:-1 tvg-id="13-kanal-il" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/1/17/Reshet13Logo2022.svg/640px-Reshet13Logo2022.svg.png" group-title="Israel", reshet 13
+#EXTINF:-1 tvg-id="13-kanal-il" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/f/f3/Reshet13Logo2025.svg/960px-Reshet13Logo2025.svg.png" group-title="Israel", reshet 13
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/reshet_13_hevc/live.livx/playlist.m3u8?fmp4&renditions&dvr=28800000
 
 #EXTINF:-1 tvg-id="14-kanal-il"   tvg-logo="https://www.now14.co.il/wp-content/uploads/2022/06/%D7%9C%D7%95%D7%92%D7%95-%D7%A9%D7%A7%D7%95%D7%A3-02-e1659629999469.png" group-title="Israel",now 14
