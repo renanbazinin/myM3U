@@ -30,8 +30,8 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 https://amg00453-reuters-amg00453c1-samsung-de-2111.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-samsungde/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://i.imgur.com/05S3yYZ.png" group-title="USA",CNN International Europe
-https://stream1.cinerama.uz/1259/index.m3u8
+#EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://i.imgur.com/05S3yYZ.png" group-title="USA",CNN USA
+https://fetcher-token-902812087252.me-west1.run.app/play/cnn
 
 
 #EXTINF:-1 tvg-id="WE2" tvg-logo="https://www.br.de/mediathek/static/Brand_ogp.png" group-title="WeatherSki",Weather EU 2
