@@ -52,6 +52,9 @@ https://hoktastream1.webcamera.pl/tv_cam_9bb83d/tv_cam_9bb83d.stream/playlist.m3
 #EXTINF:-1 tvg-id="3CatCameresdeltemps.es" tvg-logo="https://i.imgur.com/zXy2kbe.png" group-title="WeatherSki",3Cat Cameres del Temps
 https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8
 
+#EXTINF:-1 tvg-id="ValGardenaGralba" tvg-logo="https://images.prismic.io/panomax-prismic/Z9lB0TiBA97Gilco_logo-bg2.png" group-title="WeatherSki",Val Gardena - Plan de Gralba (Cam IT)
+https://streaming.panomax.com:3000/live/tRwFnC8MBfAmJFaT3bzf/index.m3u8
+
 #EXTINF:-1 tvg-id="RickAndMorty" tvg-logo="https://media.cdn.adultswim.com/uploads/20220904/2294143541-RAMMobileHero.png" group-title="TvShowMarathons",Rick and morty (720) HD
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_7.m3u8
 
