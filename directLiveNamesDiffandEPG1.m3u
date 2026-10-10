@@ -55,6 +55,15 @@ https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8
 #EXTINF:-1 tvg-id="ValGardenaGralba" tvg-logo="https://images.prismic.io/panomax-prismic/Z9lB0TiBA97Gilco_logo-bg2.png" group-title="WeatherSki",Val Gardena - Plan de Gralba (Cam IT)
 https://streaming.panomax.com:3000/live/tRwFnC8MBfAmJFaT3bzf/index.m3u8
 
+#EXTINF:-1 tvg-id="Chamrousse" tvg-logo="https://www.viewsurf.com/static/img/apple-touch-icon.7c86f450e7c8.png" group-title="WeatherSki",Chamrousse - Station (Cam FR)
+https://ds1-cache.quanteec.com/contents/encodings/live/1cd8988d-50c1-4208-3835-3130-6d61-63-95a3-cd10df4fa0d4d/master.m3u8
+
+#EXTINF:-1 tvg-id="LeVernetBlanche" tvg-logo="https://www.viewsurf.com/static/img/apple-touch-icon.7c86f450e7c8.png" group-title="WeatherSki",Le Vernet - Chaine de la Blanche (Cam FR)
+https://ds1-cache.quanteec.com/contents/encodings/live/2e6a9dfa-89db-414d-3431-3530-6d61-63-9c23-cd42915c38f4d/master.m3u8
+
+#EXTINF:-1 tvg-id="GoulierNeige" tvg-logo="https://www.viewsurf.com/static/img/apple-touch-icon.7c86f450e7c8.png" group-title="WeatherSki",Goulier Neige - Pyrenees (Cam FR)
+https://ds1-cache.quanteec.com/contents/encodings/live/c73f9199-f54d-4851-3038-3530-6d61-63-94db-bb585c99ffd8d/master.m3u8
+
 #EXTINF:-1 tvg-id="RickAndMorty" tvg-logo="https://media.cdn.adultswim.com/uploads/20220904/2294143541-RAMMobileHero.png" group-title="TvShowMarathons",Rick and morty (720) HD
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_7.m3u8
 
