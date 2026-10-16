@@ -3,7 +3,7 @@
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s47350/images/logod.jpg" group-title="RadioIL" ,Kan88
-https://kanliveicy.media.kan.org.il/icy/749623_mp3
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/radio/kan_88/live.livx/playlist.m3u8?renditions
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRT_p7NVO61t-w4A4bVLMpYQRtUfU46skGRcvG4=s900-c-k-c0x00ffffff-no-rj" group-title="RadioIL",GLZ
 https://glzwizzlv.bynetcdn.com/glz_mp3
@@ -12,7 +12,7 @@ https://glzwizzlv.bynetcdn.com/glz_mp3
 http://glzwizzlv.bynetcdn.com/glglz_mp3
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://kanstatic.azureedge.net/download/pictures/Station_Share_Image3_img__2.jpg" group-title="RadioIL",Reshet Bet
-https://kanliveicy.media.kan.org.il/icy/kanbet_mp3
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/radio/kan_reshet_bet/live.livx/playlist.m3u8?renditions
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/7/72/103FM.svg/1200px-103FM.svg.png" group-title="RadioIL",103FM
@@ -34,4 +34,4 @@ https://gb25.streamgates.net/radios-audio/100Nostalgia/icecast.audio?listening-f
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.rlive.co.il/storage/uploads/stations/Q4IUO2dHHBgUhGxvj5jvCiOGOPedRATh0yvbuzeU.png" group-title="RadioIL",Reshet G (kan g)
-https://kangimmel.media.kan.org.il/hls/live/2024813/2024813/kangimmel_mp3/chunklist.m3u8
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/radio/kan_gimel/live.livx/playlist.m3u8?renditions
